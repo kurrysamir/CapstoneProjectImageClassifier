@@ -1,0 +1,6 @@
+
+Have installed the custom classifier on web and have provided a GUI for people to interact with it. Flask is a lightweight web framework that allows us to do that. Have connected the web app to custom classifier and deployed it to IBM Cloud.
+Log into IBM Cloud Account with the following link - https://cloud.ibm.com
+After logging in, Click on Cloud Foundry Apps and we will see a web app deployed to IBM Cloud.
+
+https://svamin-computer-vision-app.eu-gb.mybluemix.net/
